@@ -52,6 +52,26 @@ Baseline gestational age differs across U.S. regions, with the South consistentl
 
 #### **Baseline Population Stability: Low Structural Variance Before Stratification**
 
+![Mean Gestation](Screenshot%202026-02-18%20at%205.14.19%20PM.png)
+
+## **Core Analytical Findings**
+
+ ### **Prenatal Care Timing: Main Association**
+ 
+When examined in isolation, prenatal care timing does not show a simple linear relationship with gestational age. In some unadjusted comparisons, delayed care appears associated with slightly longer gestation. However, this pattern reflects confounding by indication high-risk pregnancies often initiate care earlier and are more likely to deliver preterm.
+Crucially, absence of prenatal care is associated with the shortest gestational ages across all regions, representing a clinically meaningful reduction of approximately 2–3 weeks.
+
+#### **Delayed Prenatal Care Increases Birth Timing Variability Not Just Earlier Delivery**
+
+
+<img width="1117" height="679" alt="image" src="https://github.com/user-attachments/assets/5ef6d640-ec6c-4cd7-86bb-b3c22794084f" />
+
+
+
+
+
+
+
 
 
 
