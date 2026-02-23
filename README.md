@@ -26,8 +26,14 @@ Raw dataset
 The slideshow presentation for this analysis can be found [here](https://docs.google.com/presentation/d/172dNhzClbHkm6S5NZ6ZgezhJBNB9bon05y44OQYIPEY/edit?usp=sharing)
 
  # Data Structure
+ Thee dataset used consist of 6 tables; birth record, census region, prenatal care, mother's education, mother's race, and year.
+ 
+<img width="885" height="570" alt="image" src="https://github.com/user-attachments/assets/f34dc937-bd62-4b23-92a8-1b93cb7d6166" />
 
- ...
+Prior to the beginning of analysis, a variety of checks were conducted for quality control within the dataset. Python was utilized to inspect and control quality checks and can be found HERE.
+
+
+ 
 
  # Executive Summary
 
