@@ -21,7 +21,10 @@ An interactive dashboard can be downloaded [here](https://birth-outcomes-lab.bas
 
 The python code utilized to clean, organize, and prepare data for analysis can be found here
 
-Raw dataset
+
+[Download Maternity Dataset](./Extern%20Maternity%20dataset%2012-17-2025.xlsx)
+
+
 
 The slideshow presentation for this analysis can be found [here](https://docs.google.com/presentation/d/172dNhzClbHkm6S5NZ6ZgezhJBNB9bon05y44OQYIPEY/edit?usp=sharing)
 
