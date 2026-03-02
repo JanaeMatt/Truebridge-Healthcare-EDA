@@ -4,9 +4,9 @@ This project analyzes how prenatal care timing, maternal education, race/ethnici
 
 # Project Background
 
-Gestational age at birth is one of the most critical predictors of infant health. Preterm birth is associated with increased risks of respiratory complications, developmental delays, and long-term morbidity. Despite advances in obstetric care, substantial disparities in birth outcomes persist across socioeconomic and geographic lines in the United States.
-Early prenatal care is widely regarded as a protective factor; however, access to and utilization of prenatal services vary considerably depending on maternal education, region, and broader social determinants of health (SDOH). Importantly, many prior studies focus on average effects, overlooking how social context may modify the relationship between prenatal care and birth outcomes.
-This analysis addresses that gap by examining who is most affected when prenatal care is delayed, rather than assuming uniform effects across populations.
+Gestational age at birth is a key predictor of infant health. Preterm birth is associated with higher risks of medical complications and long-term health challenges. Despite advances in obstetric care, disparities in birth outcomes persist across socioeconomic and geographic groups in the United States.
+Early prenatal care is often considered protective, but access and engagement vary widely based on education, region, and broader social factors. Many analyses focus only on average effects, masking how different populations may experience different levels of risk.
+This project examines whether delayed prenatal care is associated with shorter gestational age — and more importantly, which populations are most affected. The goal is to provide healthcare stakeholders with clearer insight into where targeted outreach and intervention strategies may have the greatest impact.
 
 Insights and recommendations are based on the following areas
 Demographic stratification
