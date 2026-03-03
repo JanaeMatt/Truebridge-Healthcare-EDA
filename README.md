@@ -76,7 +76,33 @@ Prior to the beginning of analysis, a variety of checks were conducted for quali
 # **Baseline Context Before Accounting for Prenatal Care Timing**
 ### **Gestational Age and Maternal Education**
  
-Mean gestational age varies modestly by education level. Mothers with higher educational attainment (bachelor’s and master’s degrees) exhibit slightly longer average gestations, while lower education and “unknown/not stated” categories show shorter averages. Importantly, education alone does not fully explain observed differences, indicating the need to examine interactions with prenatal care timing and region.
+- Mean gestational age ranges approximately 38.8–39.1 weeks across education levels.
+  
+- Mothers with Bachelor’s or Master’s degrees show slightly longer average gestation (~39.0+ weeks).
+  
+- Mothers with lower education or “Unknown” education show shorter averages (~38.8–38.9 weeks).
+  
+- Absolute differences are small (~0.2–0.3 weeks).
+  
+- Education alone does not explain meaningful gestational age variation.
+  
+- Justifies testing interaction effects with prenatal care timing.
+  
+Why this matters: Baseline differences are modest — suggesting education modifies risk primarily when combined with delayed prenatal care.
+
+**Baseline Regional Differences in Gestational Age**
+
+- Mean gestational age differs slightly across U.S. Census regions.
+  
+- The South exhibits the lowest baseline mean gestation (~38.8–38.9 weeks).
+  
+- The West and Northeast exhibit slightly higher averages (~39.0+ weeks).
+  
+- Absolute baseline regional differences are small (~0.2 weeks).
+  
+- Differences exist before adjusting for prenatal care timing.
+  
+Why this matters: Even small baseline shifts justify regional stratification in subsequent modeling.
 
 
 
