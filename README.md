@@ -1,5 +1,5 @@
 # Truebridge-Healthcare-EDA
-This project analyzes how prenatal care timing, maternal education, race/ethnicity, and U.S. Census region are associated with gestational age at birth.
+As part of a maternal health analytics initiative, this analysis evaluates whether delayed prenatal care impacts gestational age and identifies which populations face the greatest risk.
 
 
 # Project Background
