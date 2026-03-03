@@ -32,6 +32,50 @@ The slideshow presentation for this analysis can be found [here](https://docs.go
 
  # Data Structure
  The dataset used consist of 6 tables; birth record, census region, prenatal care, mother's education, mother's race, and year.
+
+ The dataset is organized using a relational model centered on the Birth_Records table. This table functions as the primary fact table and contains one row per birth, with outcome and exposure variables including:
+- Gestational_Age
+- Prenatal_Care_Timing
+- Race_ID
+- Education_ID
+- Region_ID
+- Year_ID
+  
+Each record represents an individual birth event and serves as the foundation for all outcome analysis.
+
+Relational Structure
+The Birth_Records table connects to four supporting dimension tables through foreign keys:
+- Region – defines geographic grouping of births
+- Education – categorizes maternal education level
+- Race – standardizes maternal racial classification
+- Year – enables time-based trend analysis
+
+  
+Each dimension table contains a primary key (e.g., Region_ID, Education_ID) that links back to the Birth_Records table. This structure ensures:
+- Normalized data storage
+- Reduced redundancy
+- Consistent category definitions
+- Clean segmentation across demographic and geographic groups
+  
+Why This Design Matters
+This relational structure allows gestational age outcomes to be analyzed across multiple dimensions without duplicating demographic data. 
+
+Because demographic attributes are stored separately and linked through keys, the model supports:
+- Stratified comparisons (e.g., by race or education)
+- Regional trend analysis
+- Effect modification testing
+- Time-series evaluation
+
+  
+The overall design resembles a simplified star schema commonly used in healthcare analytics and business intelligence environments, where a central outcomes table is joined to descriptive dimension tables for reporting and segmentation.
+
+Cross-Industry Relevance
+Although this project focuses on maternal health, the structure reflects patterns widely used across industries:
+- Time dimension (Year)
+- Geographic segmentation (Region)
+- Demographic attributes (Race, Education)
+- Measurable outcome variable (Gestational_Age)
+- This demonstrates familiarity with relational database concepts and scalable analytical design beyond a single healthcare use case.
  
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f34dc937-bd62-4b23-92a8-1b93cb7d6166" />
 
