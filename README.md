@@ -204,6 +204,10 @@ These findings could inform:
 
 - Aim for sustainable, measurable improvements in maternal and infant health.
 
+  
+-  With more data prioritize downstream outcomes like preterm birth rates and NICU admissions, incorporate insurance and rural status, and use predicted marginal effects to translate findings into actionable risk estimates.
+
+
 
 
 
