@@ -136,17 +136,19 @@ Key Insight: The true signal emerges when accounting for effect modifiers — no
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/38368602-aab0-417d-a823-5c64e59d87f0" /> 
 
 
-Stratified analyses reveal that the association between delayed prenatal care and gestational age varies substantially by education level:
-In several education groups, delayed care is associated with statistically significant differences in gestational age.
+Largest education-based difference:
 
+- Low education: −0.40 weeks
+- High education: −0.15 weeks
+- 2.7× disparity in effect size
+- One group (High School Graduate/GED) shows no significant association.
+- Multivariable regression with interaction terms confirms:
+- Maternal education significantly modifies the delayed care effect.
+- Delayed care is associated with shorter gestational age in multiple strata after adjustment.
+  
+Key Insight: Lower education amplifies the association between delayed prenatal care and earlier delivery.
 
-One education group (high school graduate/GED) shows no significant association, highlighting heterogeneity rather than a uniform effect.
-
-
-These mixed unadjusted results reinforce the importance of multivariable modeling.
-
-
-Multivariable regression models with interaction terms confirm that maternal education significantly modifies the effect of delayed prenatal care, with delayed care associated with shorter gestational age in multiple education strata after adjustment.
+Delayed care disproportionately impacts mothers with fewer socioeconomic resources.
 
 
 
