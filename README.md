@@ -131,7 +131,7 @@ Multivariable regression models with interaction terms confirm that maternal edu
 ### **Southern and Midwestern Regions Exhibit Stronger Negative Associations Between Delayed Care and Gestational Age**
 
 
-<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/d47124ec-68f6-4ccd-a21b-cbcf981b7285" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d47124ec-68f6-4ccd-a21b-cbcf981b7285" />
 
 
 After adjusting for education, delayed prenatal care is associated with shorter gestational age in every U.S. Census region. The magnitude of this effect varies:
@@ -149,6 +149,8 @@ These findings suggest that regional healthcare infrastructure, access, and poli
 
 ## Race
 ### **Racial Stratification Shows 2.5× Stronger Delayed Care Effect Among Black Mothers**
+
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dee95a55-31a5-4eed-8fe4-6061fbbe43c1" />
 
 # Recommendations
 
