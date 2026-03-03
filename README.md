@@ -30,6 +30,18 @@ Python code here
 
 The slideshow presentation for this analysis can be found [here](https://docs.google.com/presentation/d/172dNhzClbHkm6S5NZ6ZgezhJBNB9bon05y44OQYIPEY/edit?usp=sharing)
 
+ # Executive Summary
+
+ Delayed prenatal care is associated with a median reduction of 0.2 weeks (1.4 days) in gestational age. While average birth timing remains relatively stable across demographic groups, delayed care significantly increases variability — particularly in the South and Midwest. The effect magnitude differs across racial groups, suggesting heterogeneous risk patterns. These findings indicate that delayed prenatal care functions as an early warning indicator for concentrated risk in underserved populations.
+
+The objective is to support healthcare systems and public health programs in targeting interventions where delayed prenatal care has the greatest measurable impact.
+
+
+Below is the overview page from the dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed [here](https://birth-outcomes-lab.base44.app)
+
+
+<img src="Screenshot%202026-02-18%20at%2011.26.04%20PM.png" alt="Prenatal Care Analysis" width="700" />
+
  # Data Structure
  The dataset used consist of 6 tables; birth record, census region, prenatal care, mother's education, mother's race, and year.
 
@@ -59,17 +71,7 @@ Prior to the beginning of analysis, a variety of checks were conducted for quali
 
  
 
- # Executive Summary
 
- Delayed prenatal care is associated with a median reduction of 0.2 weeks (1.4 days) in gestational age. While average birth timing remains relatively stable across demographic groups, delayed care significantly increases variability — particularly in the South and Midwest. The effect magnitude differs across racial groups, suggesting heterogeneous risk patterns. These findings indicate that delayed prenatal care functions as an early warning indicator for concentrated risk in underserved populations.
-
-The objective is to support healthcare systems and public health programs in targeting interventions where delayed prenatal care has the greatest measurable impact.
-
-
-Below is the overview page from the dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed [here](https://birth-outcomes-lab.base44.app)
-
-
-<img src="Screenshot%202026-02-18%20at%2011.26.04%20PM.png" alt="Prenatal Care Analysis" width="700" />
 
 # **Baseline Context Before Accounting for Prenatal Care Timing**
 ### **Gestational Age and Maternal Education**
@@ -90,16 +92,25 @@ Baseline gestational age differs across U.S. regions, with the South consistentl
 
  ### **Prenatal Care Timing: Main Association**
  
-When examined in isolation, prenatal care timing does not show a simple linear relationship with gestational age. In some unadjusted comparisons, delayed care appears associated with slightly longer gestation. However, this pattern reflects confounding by indication high-risk pregnancies often initiate care earlier and are more likely to deliver preterm.
-Crucially, absence of prenatal care is associated with the shortest gestational ages across all regions, representing a clinically meaningful reduction of approximately 2–3 weeks.
-
 #### **Delayed Prenatal Care Increases Birth Timing Variability Not Just Earlier Delivery**
 
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5ef6d640-ec6c-4cd7-86bb-b3c22794084f" />
+ 
+ 
+When examined in isolation, prenatal care timing does not show a simple linear relationship with gestational age. In some unadjusted comparisons, delayed care appears associated with slightly longer gestation. However, this pattern reflects confounding by indication high-risk pregnancies often initiate care earlier and are more likely to deliver preterm.
+Crucially, absence of prenatal care is associated with the shortest gestational ages across all regions, representing a clinically meaningful reduction of approximately 2–3 weeks.
+
+
 
  ### **Effect Modification by Maternal Education**
  
+#### **Lower Education Amplifies the Association Between Delayed Care and Earlier Delivery**
+
+
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/38368602-aab0-417d-a823-5c64e59d87f0" /> 
+
+
 Stratified analyses reveal that the association between delayed prenatal care and gestational age varies substantially by education level:
 In several education groups, delayed care is associated with statistically significant differences in gestational age.
 
@@ -113,12 +124,16 @@ These mixed unadjusted results reinforce the importance of multivariable modelin
 Multivariable regression models with interaction terms confirm that maternal education significantly modifies the effect of delayed prenatal care, with delayed care associated with shorter gestational age in multiple education strata after adjustment.
 
 
-#### **Lower Education Amplifies the Association Between Delayed Care and Earlier Delivery**
 
-
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/38368602-aab0-417d-a823-5c64e59d87f0" />
 
 ### **Regional Context Matters**
+
+#### **Southern and Midwestern Regions Exhibit Stronger Negative Associations Between Delayed Care and Gestational Age**
+
+
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/d47124ec-68f6-4ccd-a21b-cbcf981b7285" />
+
+
 After adjusting for education, delayed prenatal care is associated with shorter gestational age in every U.S. Census region. The magnitude of this effect varies:
 
 - Stronger associations in the South and Midwest
@@ -129,10 +144,7 @@ After adjusting for education, delayed prenatal care is associated with shorter 
 
 These findings suggest that regional healthcare infrastructure, access, and policy environments influence how prenatal care timing translates into outcomes.
 
-#### **Southern and Midwestern Regions Exhibit Stronger Negative Associations Between Delayed Care and Gestational Age**
 
-
-<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/d47124ec-68f6-4ccd-a21b-cbcf981b7285" />
 
 
 Race
