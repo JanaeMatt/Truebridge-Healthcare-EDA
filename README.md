@@ -103,9 +103,9 @@ Crucially, absence of prenatal care is associated with the shortest gestational 
 
 
 
- ### **Effect Modification by Maternal Education**
+ ## **Effect Modification by Maternal Education**
  
-#### **Lower Education Amplifies the Association Between Delayed Care and Earlier Delivery**
+### **Lower Education Amplifies the Association Between Delayed Care and Earlier Delivery**
 
 
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/38368602-aab0-417d-a823-5c64e59d87f0" /> 
@@ -126,9 +126,9 @@ Multivariable regression models with interaction terms confirm that maternal edu
 
 
 
-### **Regional Context Matters**
+## **Regional Context Matters**
 
-#### **Southern and Midwestern Regions Exhibit Stronger Negative Associations Between Delayed Care and Gestational Age**
+### **Southern and Midwestern Regions Exhibit Stronger Negative Associations Between Delayed Care and Gestational Age**
 
 
 <img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/d47124ec-68f6-4ccd-a21b-cbcf981b7285" />
@@ -147,8 +147,8 @@ These findings suggest that regional healthcare infrastructure, access, and poli
 
 
 
-Race
-...
+## Race
+### **Racial Stratification Shows 2.5× Stronger Delayed Care Effect Among Black Mothers**
 
 # Recommendations
 
