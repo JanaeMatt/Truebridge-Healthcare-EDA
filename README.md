@@ -152,6 +152,20 @@ These findings suggest that regional healthcare infrastructure, access, and poli
 
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dee95a55-31a5-4eed-8fe4-6061fbbe43c1" />
 
+
+The impact of delayed prenatal care on gestational age varies substantially across racial and ethnic groups.
+- Black mothers: −0.45 weeks (~3.2 days)
+- Hispanic mothers: −0.32 weeks
+- White mothers: −0.22 weeks
+- Asian mothers: −0.18 weeks (~1.3 days)
+
+  
+Black mothers experience a 2.5× larger reduction in gestational age associated with delayed prenatal care compared to Asian mothers (−0.45 vs −0.18 weeks).
+
+Importantly, these disparities persist even after stratifying by education level, suggesting that structural and systemic factors beyond individual educational attainment may amplify the impact of delayed prenatal access.
+
+While race is presented as a supplementary stratified analysis (with education and region as primary effect modifiers), these findings highlight how delayed care does not affect populations uniformly and may disproportionately intensify risk in historically underserved groups.
+
 # Recommendations
 
 - ## Policy and Practice Recommendations
