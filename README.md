@@ -78,7 +78,7 @@ Prior to the beginning of analysis, a variety of checks were conducted for quali
  
 Mean gestational age varies modestly by education level. Mothers with higher educational attainment (bachelor’s and master’s degrees) exhibit slightly longer average gestations, while lower education and “unknown/not stated” categories show shorter averages. Importantly, education alone does not fully explain observed differences, indicating the need to examine interactions with prenatal care timing and region.
 
-### **Regional Differences**
+
 
 #### **Gestational Age Is Nearly Identical Across Regions and Education Levels Before Accounting for Prenatal Care Timing**
 
