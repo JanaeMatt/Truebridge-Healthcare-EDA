@@ -140,7 +140,7 @@ Multivariable regression models with interaction terms confirm that maternal edu
 #### **Lower Education Amplifies the Association Between Delayed Care and Earlier Delivery**
 
 
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/38368602-aab0-417d-a823-5c64e59d87f0" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/38368602-aab0-417d-a823-5c64e59d87f0" />
 
 ### **Regional Context Matters**
 After adjusting for education, delayed prenatal care is associated with shorter gestational age in every U.S. Census region. The magnitude of this effect varies:
