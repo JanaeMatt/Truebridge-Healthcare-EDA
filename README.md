@@ -159,13 +159,18 @@ Multivariable regression models with interaction terms confirm that maternal edu
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d47124ec-68f6-4ccd-a21b-cbcf981b7285" />
 
 
-After adjusting for education, delayed prenatal care is associated with shorter gestational age in every U.S. Census region. The magnitude of this effect varies:
+After adjusting for education:
+Delayed care is associated with shorter gestational age in all regions.
 
-- Stronger associations in the South and Midwest
-
-
-- Attenuated effects in the West
-
+- Strongest associations:
+- South: −0.35 weeks
+- Midwest: Similar magnitude
+- Weakest association:
+- West: −0.15 weeks
+-  Largest regional disparity:
+- 2.3× difference (South vs. West)
+  
+Key Insight: Geographic healthcare environment influences how delayed prenatal care translates into birth outcomes.
 
 These findings suggest that regional healthcare infrastructure, access, and policy environments influence how prenatal care timing translates into outcomes.
 
