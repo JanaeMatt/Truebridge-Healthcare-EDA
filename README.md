@@ -40,7 +40,7 @@ The objective is to support healthcare systems and public health programs in tar
 Below is the overview page from the dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed [here](https://birth-outcomes-lab.base44.app)
 
 
-<img src="Screenshot%202026-02-18%20at%2011.26.04%20PM.png" alt="Prenatal Care Analysis" width="700" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/c341dc35-a502-4283-8502-86593509cf85" />
 
  # Data Structure
  The dataset used consist of 6 tables; birth record, census region, prenatal care, mother's education, mother's race, and year.
@@ -99,7 +99,8 @@ Why this matters: Even small baseline shifts justify regional stratification in 
 
 #### **Gestational Age Is Nearly Identical Across Regions and Education Levels Before Accounting for Prenatal Care Timing**
 
-<img src="Screenshot%202026-02-18%20at%205.14.19%20PM.png" alt="Mean Gestation" width="650" />
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/2fcfdcc8-bf56-480b-a1c9-0924e7383e3b" />
+
  
 Baseline gestational age differs across U.S. regions, with the South consistently exhibiting shorter average gestational age compared to other regions. These differences are evident even before accounting for prenatal care timing, justifying regional stratification in subsequent analyses.
 
