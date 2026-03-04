@@ -77,20 +77,20 @@ Although focused on maternal health, this structure reflects widely used analyti
 ### **Gestational Age and Maternal Education**
  
 - Mean gestational age ranges approximately 38.8–39.1 weeks across education levels.
-- Mothers with Bachelor’s or Master’s degrees show slightly longer average gestation (~39.0+ weeks).
-- Mothers with lower education or “Unknown” education show shorter averages (~38.8–38.9 weeks).
-- Absolute differences are small (~0.2–0.3 weeks).
+- Mothers with Bachelor’s or Master’s degrees show slightly longer average gestation (-39.0+ weeks).
+- Mothers with lower education or “Unknown” education show shorter averages (-38.8–38.9 weeks).
+- Absolute differences are small (-0.2–0.3 weeks).
 - Education alone does not explain meaningful gestational age variation.
 - Justifies testing interaction effects with prenatal care timing.
   
-Why this matters: Baseline differences are modest — suggesting education modifies risk primarily when combined with delayed prenatal care.
+Why this matters: Baseline differences are modest, suggesting education modifies risk primarily when combined with delayed prenatal care.
 
 **Baseline Regional Differences in Gestational Age**
 
 - Mean gestational age differs slightly across U.S. Census regions.
-- The South exhibits the lowest baseline mean gestation (~38.8–38.9 weeks). 
-- The West and Northeast exhibit slightly higher averages (~39.0+ weeks).
-- Absolute baseline regional differences are small (~0.2 weeks).
+- The South exhibits the lowest baseline mean gestation (-38.8–38.9 weeks). 
+- The West and Northeast exhibit slightly higher averages (-39.0+ weeks).
+- Absolute baseline regional differences are small (-0.2 weeks).
 - Differences exist before adjusting for prenatal care timing.
   
 Why this matters: Even small baseline shifts justify regional stratification in subsequent modeling.
@@ -122,7 +122,7 @@ Baseline gestational age differs across U.S. regions, with the South consistentl
 - High-risk pregnancies initiate care earlier.
 - High-risk pregnancies are more likely to deliver preterm.
 - Absence of prenatal care is associated with the shortest gestational ages across all regions.
-- No prenatal care is linked to a clinically meaningful reduction of ~2–3 weeks.
+- No prenatal care is linked to a clinically meaningful reduction of 2–3 weeks.
   
 Key Insight: The true signal emerges when accounting for effect modifiers — not from simple averages.
 
@@ -186,10 +186,10 @@ These findings suggest that regional healthcare infrastructure, access, and poli
 
 
 The impact of delayed prenatal care on gestational age varies substantially across racial and ethnic groups.
-- Black mothers: −0.45 weeks (~3.2 days)
+- Black mothers: −0.45 weeks (-3.2 days)
 - Hispanic mothers: −0.32 weeks
 - White mothers: −0.22 weeks
-- Asian mothers: −0.18 weeks (~1.3 days)
+- Asian mothers: −0.18 weeks (-1.3 days)
 
   
 Black mothers experience a 2.5× larger reduction in gestational age associated with delayed prenatal care compared to Asian mothers (−0.45 vs −0.18 weeks).
