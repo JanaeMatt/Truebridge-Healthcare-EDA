@@ -66,7 +66,7 @@ Although focused on maternal health, this structure reflects widely used analyti
  
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f34dc937-bd62-4b23-92a8-1b93cb7d6166" />
 
-Prior to the beginning of analysis, a variety of checks were conducted for quality control within the dataset. Python was utilized to inspect and control quality checks and can be found HERE.
+
 
 
  
