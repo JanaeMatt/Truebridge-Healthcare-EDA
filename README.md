@@ -6,7 +6,7 @@ As part of a maternal health analytics initiative, this analysis evaluates wheth
 
 Gestational age at birth is a key predictor of infant health. Preterm birth is associated with higher risks of medical complications and long-term health challenges. Despite advances in obstetric care, disparities in birth outcomes persist across socioeconomic and geographic groups in the United States.
 Early prenatal care is often considered protective, but access and engagement vary widely based on education, region, and broader social factors. Many analyses focus only on average effects, masking how different populations may experience different levels of risk.
-This analysis examines whether delayed prenatal care is associated with shorter gestational age — and more importantly, which populations are most affected. The goal is to provide healthcare stakeholders with clearer insight into where targeted outreach and intervention strategies may have the greatest impact.
+This analysis examines whether delayed prenatal care is associated with shorter gestational age and more importantly, which populations are most affected. The goal is to provide healthcare stakeholders with clearer insight into where targeted outreach and intervention strategies may have the greatest impact.
 
 Insights and recommendations are based on the following areas
 - Demographic stratification
