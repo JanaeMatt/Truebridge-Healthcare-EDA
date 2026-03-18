@@ -176,6 +176,10 @@ Delayed care is associated with shorter gestational age in all regions.
   
 Key Insight: Geographic healthcare environment influences how delayed prenatal care translates into birth outcomes.
 
+#### Regional Healthcare Context
+
+- **The South and Midwest show stronger negative effects, likely due to rural hospital closures and maternity care deserts. Between 2011–2023, nearly 24% of rural hospitals stopped providing OB-GYN services in these regions.** 
+
 These findings suggest that regional healthcare infrastructure, access, and policy environments influence how prenatal care timing translates into outcomes.
 
 
